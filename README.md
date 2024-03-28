@@ -24,3 +24,9 @@ prerequisites:
         2.  react-dom 
         3.  jwt-decode
         4.  react-bootstrap bootstrap
+
+
+# Deploy on Choreo
+    https://choreo.dev
+
+
