@@ -6,6 +6,7 @@
         a. create React
 
 prerequisites:
+
     Django
         1.  asgiref
         2.  Django
