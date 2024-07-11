@@ -30,3 +30,6 @@ prerequisites:
     https://choreo.dev
 
 
+
+
+![Screenshot (4)](https://github.com/nazirumar/django-react-Full_Stack/assets/37006224/dd0f9e90-d7ae-4126-be7b-895139cb75c7)
